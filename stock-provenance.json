@@ -1,0 +1,14 @@
+{
+  "system_dlkm_release": "6.1.138-android14-11-g2ecae636cf9b-ab14676408",
+  "missing": [],
+  "note": "DTBO supplied by user as .298; fingerprint and embedded salted hash verified. Userspace headers from cloned source, see header-provenance.json. Runtime compatibility untested.",
+  "dtbo": {
+    "source": "/home/nero/Pictures/dtbo.img",
+    "bytes": 25165824,
+    "sha256": "d5745107511b87e096e2889b972534123c2d3f6154e289576905c55a91b25b27",
+    "overlays": 72,
+    "avb_hash_verified": true,
+    "all_fdt_entries_parse": true,
+    "fingerprint": "Lenovo/TB321FU/TB321FU:14/UKQ1.240826.001/ZUXOS_1.5.10.298_260511_PRC:user/release-keys"
+  }
+}
